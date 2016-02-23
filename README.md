@@ -13,3 +13,5 @@ To run any script just pipe it into the `sml` executable:
 ```
 sml < file.sml
 ```
+
+At some point in the future it would be good to use [CM](http://www.smlnj.org/doc/CM/index.html) for managing this as a project.
