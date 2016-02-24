@@ -67,4 +67,4 @@ sml
 Ullman published his [official solutions](http://infolab.stanford.edu/~ullman/emlpsols/sols.html).
 
 Others have their own repos (feel free to open an issue to add yours):
-* [spewspew](https://github.com/spewspew/spew/tree/master/ml)
+* [spewspew](https://github.com/spewspew/spew/tree/master/ml) - spewspew pointed me to ML, and the reason why this repo exists
