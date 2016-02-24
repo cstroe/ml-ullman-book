@@ -61,3 +61,10 @@ To check if everything worked, type:
 ```
 sml
 ```
+
+## Solutions
+
+Ullman published his [official solutions](http://infolab.stanford.edu/~ullman/emlpsols/sols.html).
+
+Others have their own repos (feel free to open an issue to add yours):
+* [spewspew](https://github.com/spewspew/spew/tree/master/ml)
